@@ -1,0 +1,5 @@
+ID,Model,Year,Engine,Cylinders,Transmission,Drive,MPG,Make
+1,A,2020,2.0,4,Auto,FWD,30,mazda
+2,B,2021,2.5,4,Auto,FWD,32,mazda
+3,C,2022,2.0,4,Auto,AWD,26,audi
+4,D,2023,2.0,4,Auto,AWD,28,audi
