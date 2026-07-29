@@ -1,0 +1,6 @@
+Property ID,Location,Bedrooms,Area,Listing Price
+101,Chennai,3,1200,5500000
+102,Coimbatore,5,2200,9800000
+103,Madurai,4,1800,7200000
+104,Chennai,6,3000,15000000
+105,Coimbatore,2,1000,4500000
